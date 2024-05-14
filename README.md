@@ -1,14 +1,30 @@
-![logo](https://github.com/HoangThanhLuu/HoangThanhLuu/blob/main/anhBackEnd.jpg)
-<h1 align="center">Hi 👋, I'm ThanhLuu</h1>
-<h3 align="center">A coder passionate developer from IUH</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HoangThanhLuu&label=Profile%20views&color=0e75b6&style=flat" alt="HoangThanhLuu" /> <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/HoangThanhLuu?label=Followers&style=social" alt="HoangThanhLuu"></a></p>
+<h1 align="center" color="red">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Hoàng Thành Lưu</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F7E9EB&background=FF200100&multiline=true&width=470&lines=Hello+ -+thanks+for+visiting+ - +me" alt="Typing SVG" /></a>
+</p>
+
+
+## 🙋‍♂️ About me
+
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952xc0ygqjwne5noccsl6thr7ligb6pteqpbiv6ts38&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangthanhluu&label=Profile%20views&color=0e75b6&style=flat" alt="hoangthanhluu" /> </p>
+- 💳 My full name is **Hoàng Thành Lưu**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/HoangThanhLuu](https://github.com/HoangThanhLuu](https://github.com/HoangThanhLuu?tab=repositories))
+- 🏬 I'm currently study at **IUH University - HCM**
 
-<h3 align="left">Connect with me:</h3>
+- 📚 My major is **Software Engineering**
+
+- 📂 All of my projects are available at https://github.com/HoangThanhLuu
+
+- 📄 Know about my social media  [Facebook](https://www.facebook.com/luu.hoang.9465177?mibextid=LQQJ4d) [Instagram](https://www.instagram.com/htl06105)
+
+- 🏂 My hobby is **🎧 Music 🎥 Film 🎮 Games 💻 Coding 🚗 Travelling**
+
+## 🤝 Connect me via:
 <p align="left">
-<a href="https://instagram.com/htl06105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="htl06105" height="30" width="40" /></a>
+<a href="[https://fb.com/truonggiang0405](https://www.facebook.com/luu.hoang.9465177?mibextid=LQQJ4d)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="HoangThanhLuu" height="30" width="40" /></a>
+<a href="https://instagram.com/htl06105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="HoangThanhLuu" height="30" width="40" /></a>
+ <a href="https://github.com/HoangThanhLuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HoangThanhLuu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangthanhluu&show_icons=true&locale=en" alt="hoangthanhluu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangthanhluu&" alt="hoangthanhluu" /></p>
+
+
+### Copyright &#169; 2024 Hoàng Thành Lưu
